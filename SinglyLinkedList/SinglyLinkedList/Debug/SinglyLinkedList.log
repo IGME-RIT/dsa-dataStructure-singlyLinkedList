@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(38): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(39): warning C4101: 'element': unreferenced local variable
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(39): warning C4101: 'i': unreferenced local variable
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(39): warning C4101: 'position': unreferenced local variable
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(39): warning C4101: 'nodes': unreferenced local variable
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(132): warning C4101: 's': unreferenced local variable
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(285): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\profiles\pc8752\source\repos\singlylinkedlist\singlylinkedlist\main.cpp(344): warning C4101: 'ptr': unreferenced local variable
+  SinglyLinkedList.vcxproj -> D:\Profiles\pc8752\source\repos\SinglyLinkedList\Debug\SinglyLinkedList.exe
